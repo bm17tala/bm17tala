@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Brenden Talasco, and I am a Senior Computer Science student at Siena College. You'll find some of my project work here.
+My name is Brenden Talasco, and I am a Senior Computer Science student at Siena College.
 <!--
 **bm17tala/bm17tala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
